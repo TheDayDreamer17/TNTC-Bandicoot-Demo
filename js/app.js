@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Builds.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/builds for pepsi.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
